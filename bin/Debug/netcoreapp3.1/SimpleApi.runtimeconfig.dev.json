@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/masato/.dotnet/store/|arch|/|tfm|",
+      "/Users/masato/.nuget/packages"
+    ]
+  }
+}
